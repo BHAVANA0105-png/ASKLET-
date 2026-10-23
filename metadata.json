@@ -1,0 +1,6 @@
+{
+  "name": "Study Buddy AI",
+  "description": "Smart college study companion: simple topic explanations, high-yield revision notes & flashcards, and interactive practice quizzes powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
